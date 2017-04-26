@@ -33,7 +33,7 @@
 <body>
 
     <div class="brand">Sample</div>
-    <div class="address-bar">Sample Address</div>
+    <div class="address-bar">Sample Addresssses</div>
 
     <!-- Navigation -->
     <nav class="navbar navbar-default" role="navigation">
